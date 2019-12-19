@@ -1,0 +1,81 @@
+{
+    "name": "FXCM",
+    "description": "Currency Trading from a global forex broker.      Losses can exceed deposited funds.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28320-www-fxcm-com.jpg",
+    "tags": [
+        "api provider",
+        "financial services",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fxcm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FXCM",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28320-www-fxcm-com.jpg",
+            "humanURL": "https:\/\/www.fxcm.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fxcm-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fxcm"
+        },
+        {
+            "type": "Email",
+            "url": "support@fxcm.com.au"
+        },
+        {
+            "type": "Email",
+            "url": "info@fxcm.co.uk"
+        },
+        {
+            "type": "Email",
+            "url": "admin@fxcm.co.uk"
+        },
+        {
+            "type": "Email",
+            "url": "info@fxcm.de"
+        },
+        {
+            "type": "Email",
+            "url": "info@fxcm.fr"
+        },
+        {
+            "type": "Email",
+            "url": "info@fxcm.it"
+        },
+        {
+            "type": "Email",
+            "url": "info@fxcm.ca"
+        },
+        {
+            "type": "Email",
+            "url": "compliance@fxcm.com"
+        },
+        {
+            "type": "Email",
+            "url": "FXCMAustralia@fxcm.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FXCM"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fxcm.com"
+        }
+    ]
+}
